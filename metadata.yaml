@@ -1,0 +1,25 @@
+_repo: Two-Poems-Class-Day-Poem-The-Purple-Hills_51466
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Conger, Henry Rutgers
+    deathdate: 1920
+    gutenberg_agent_id: '46424'
+    url: http://www.gutenberg.org/2009/agents/46424
+description: ''
+gutenberg_issued: '2016-03-15'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '51466'
+  lccn: '21007212'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Williams College -- Poetry'
+- !lcsh 'College verse, American -- Massachusetts -- Williamstown'
+- !lcc 'PS'
+- GITenberg
+title: 'Two Poems: Class Day Poem; The Purple Hills'
+url: http://www.gutenberg.org/ebooks/51466
